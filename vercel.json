@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/check-stock", "destination": "/api/check-stock" }
+  ]
+}
